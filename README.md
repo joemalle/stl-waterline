@@ -3,9 +3,11 @@ Simulate STL boat hull floating
 
 I designed a hull in onshape and wanted to figure out more or less where the waterline would be and what it would look like floating.  I didn't see an existing tool that could do this for free, so I made this little script.  It's kinda hacky but it makes nice animations.
 
-![](https://github.com/stl-waterline/rear.gif)
+![](https://raw.githubusercontent.com/joemalle/stl-waterline/c4c67167d73c90c481479aee53cf65c884dd8dfc/rear.gif)
 
-![](https://github.com/stl-waterline/side.gif)
+![](https://raw.githubusercontent.com/joemalle/stl-waterline/c4c67167d73c90c481479aee53cf65c884dd8dfc/side.gif)
+
+
 
 There are two big assumptions:
 
